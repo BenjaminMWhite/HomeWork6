@@ -1,0 +1,27 @@
+.futBox{
+height: 300px;
+width: 150px color darkblue;
+border: 20px color white ;
+}
+.bigbox {
+height: 300px;
+width: 1020px color white;
+
+}
+.oldCity{
+height:75px color gray;
+width: 230;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    padding-top: 0px;
+    color: hsl(206, 17%, 28%);
+  }
+.city{
+text-align: left;
+border-width: 2px;
+height:75px;
+width: 230;
+}
+
